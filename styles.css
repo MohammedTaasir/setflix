@@ -1,0 +1,150 @@
+#title{
+  background-color: #17b978;
+  padding: 5% 15%;
+}
+
+#nv{
+  padding: 0;
+}
+
+#abc{
+  font-size: 3rem;
+}
+
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: normal;
+}
+
+.he1{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 4rem;
+  line-height: 1.5;
+  color: #f6f6f6;
+  margin: 100px auto auto auto;
+}
+
+
+#jb{
+  margin: auto 30px;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+#bc{
+  margin-left: 100px;
+  margin-top: 100px;
+  position: absolute;
+  z-index: 0;
+  border: solid 3px;
+  width: 60%;
+  transform: rotate(5deg);
+}
+
+.ft{
+  /*display: inline-block;*/
+  /*width: 20%;*/
+  margin: 10% auto;
+}
+
+#features{
+  text-align: center;
+  margin: auto 10%;
+  position: relative;
+  z-index: 1;
+  background-color: white;
+
+}
+
+.u{
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: 15px auto;
+}
+
+.um{
+  color: #8f8f8f;
+  line-height: 2;
+  width: 70%;
+  margin:0 auto;
+  font-size: 1.5rem;
+
+}
+
+.bj:hover{
+  color: #ff4c68 !important;
+}
+
+.ks{
+  background-color: #00909e;
+  text-align: center;
+  padding: 5% 10%;
+}
+
+.eh{
+  font-family: "Montserrat";
+  line-height: 1;
+  color: #fff;
+  width: 60%;
+  margin: 0 auto;
+}
+
+.nk{
+  width: 10%;
+  margin-top: 5%;
+  border-radius: 10% / 50%;
+}
+
+.nk2{
+  width: 20%;
+  margin-top: 5%;
+
+}
+
+#press{
+  text-align: center;
+  background-color: #a40a3c;
+  padding: 2% 5%;
+}
+
+.jkk{
+  margin: 0 2%;
+}
+
+#pricing{
+  text-align: center;
+  padding: 5% 10%;
+  background-color: #930077;
+}
+
+.cd{
+  margin: 3% auto;
+}
+
+@media (max-width: 1028px){
+  #bc{
+    position: static;
+    transform: rotate(0);
+  }
+  .r{
+    text-align: center;
+  }
+}
+
+#cta{
+  background-color: #ffa41b;
+  text-align: center;
+  padding: 5% 10%;
+}
+
+#footer{
+  background-color: #b5ff7d;
+  text-align: center;
+  padding: 5% 10%;
+}
+
+.ff{
+  margin: 2% 4%;
+}
